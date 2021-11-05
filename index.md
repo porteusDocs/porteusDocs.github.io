@@ -4,4 +4,4 @@ This will become an alternative version of <http://porteus.org> (excluding <http
 
 Watch out.
 
-![porteusDocs](img/porteusDocs.png | width=200)
+![porteusDocs](/img/porteusDocs.png)
